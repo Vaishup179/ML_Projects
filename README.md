@@ -19,3 +19,13 @@ Creating_Shop_app_using_python.pdf 🛍️: Documentation for building a retail 
 5. 📖 Interactive Storytelling
 Interactive_Story_telling.pdf 🎨: Techniques for visualizing data-driven narratives using Python libraries.
 
+## Key Skills Demonstrated
+Data Preprocessing: Cleaning, merging datasets, and feature engineering.
+
+Machine Learning: Regression, classification, hyperparameter tuning (GridSearchCV), and model evaluation (RMSE, MAPE).
+
+Deep Learning: LSTM networks for time-series forecasting.
+
+Visualization: Matplotlib, Seaborn, and interactive dashboards.
+
+Tools: Python, Pandas, Scikit-learn, XGBoost, TensorFlow, Jupyter Notebooks.
