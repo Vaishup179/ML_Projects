@@ -2,7 +2,7 @@
 🌟 Welcome to ML_Projects! 🌟
 This repository showcases a collection of end-to-end machine learning and data analytics projects spanning diverse domains like sales, finance, employee analytics, and interactive storytelling. Each project highlights practical applications of Python, ML algorithms, and data visualization tools to solve real-world problems.
 
- * Projects Included
+#  Projects Included
 1. 📊 Sales Analysis & Forecasting
 Sales_analysis.ipynb 📋: Exploratory analysis of sales trends, customer behavior, and revenue insights.
 sales_forecasting.ipynb 🚀: Time-series forecasting using ML models (Linear Regression, Random Forest, XGBoost) and LSTM for future sales predictions.
